@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am software engineer by profession, currently doing master's degree at IIIT Hyderabad, where i am exploring machine learning, block-chain & distributed systems.
+I am software engineer by profession, currently doing master's degree at IIIT Hyderabad, where i am exploring machine learning, data analytics & distributed systems.
