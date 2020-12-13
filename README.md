@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am software engineer by profession, currently pursuing master's degree at IIIT Hyderabad.
+I am software engineer by profession, currently learning social computing.
