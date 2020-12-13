@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am software engineer by profession, currently learning social computing.
+I am software engineer by profession, currently learning social computing, my area of interest is distributed systems & internals of application server.
