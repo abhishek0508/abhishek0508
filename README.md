@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="insert raw link here.." alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
 I am software engineer by profession, currently learning social computing, my area of interest is distributed systems & internals of application server.
