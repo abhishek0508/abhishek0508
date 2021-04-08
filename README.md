@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="insert raw link here.." alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/abhishek0508/abhishek0508/master/banner.png" alt="banner that says Abhsihek Gorisaria is a software engineer">
 
 I am software engineer by profession, currently learning social computing, my area of interest is distributed systems & internals of application server.
