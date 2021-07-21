@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/abhishek0508/abhishek0508/master/banner.png" alt="banner that says Abhsihek Gorisaria is a software engineer">
 
-I am software engineer by profession, currently learning social computing, my area of interest is distributed systems & internals of application server.
+I am software engineer by profession, currently working for QUALCOMM, my area of interest is distributed systems & internals of application server.
