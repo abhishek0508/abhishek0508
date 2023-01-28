@@ -7,6 +7,4 @@
 - 💬 Ask me about high performance distributed systems, python architecture patterns, internals of database, algorithms and data structure.
 - 📫 How to reach me: gorisaria.abhishek@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
-
 
