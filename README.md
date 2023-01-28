@@ -1,20 +1,16 @@
 ### Hi, I'm Abhishek 🧑‍💻
 
-<!--
 **abhishek0508/abhishek0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as software engineer @Egnyte, a cloud content collaboration platform.
+- 🌱 I’m currently learning building high performance and scalable distributed systems
+- 👯 I’m looking to collaborate on building a scalable distributed system.
 
-<img src="https://raw.githubusercontent.com/abhishek0508/abhishek0508/master/banner.png" alt="banner that says Abhsihek Gorisaria is a software engineer">
+- 💬 Ask me about high performance distributed systems, python architecture patterns, internals of database, algorithms and data structure.
+- 📫 How to reach me: gorisaria.abhishek@gmail.com  
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-I am software engineer by profession, currently working for QUALCOMM, my area of interest is distributed systems & internals of application server.
+
